@@ -9,14 +9,6 @@ A handwired keyboard based on a Pro micro Atmega32u4 controller
 * Hardware Supported: Pro micro Atmega32u4 controller
 * Hardware Availability: https://github.com/PollyV1/Polly40/
 
-
-Make example for this keyboard (after setting up your build environment):
-
-    make polly/default:default
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
-
-
 * Build Details:
 * ATMEGA23U4 Controller(Pro Micro): https://shopee.ph/Pro-Micro-ATmega32U4-5V-16MHz-USB-Arduino-Compatible-i.20469516.225455828
 * 1N4148 diodes: https://shopee.ph/100PCS-do-35-1N4148-IN4148-High-speed-switching-diodes-i.307295456.4459281480
