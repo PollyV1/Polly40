@@ -19,7 +19,7 @@ A handwired keyboard based on a Pro micro Atmega32u4 controller
 * Type C daughter board: https://shopee.ph/USB-Breakout-Connector-MINI-MICRO-USB-to-DIP-Adapter-Female-Connector-2.54-B-Type-A-B-C-USB-i.20469516.1533813159?sp_atk=96eb41b0-1f5b-484a-9c44-1e8134838dca
 * 3d printed Case and plate: https://www.thingiverse.com/thing:5866768/files
 * Switches: Lubed Akko Rose Reds https://shopee.ph/AKKO-CS-Switch-Rose-Red-Matcha-Green-Ocean-Blue-Radiant-Red-Lavender-Purple-Vintage-White-i.120871528.10752748800
-* Stabilizer: Lubed and tuned durock plate moutn stabs
+* Stabilizer: Lubed and tuned durock plate mount stabs
 * Keycaps: HoneyMilk XDA keycaps
 
 Make example for this keyboard (after setting up your build environment):
