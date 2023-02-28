@@ -1,7 +1,24 @@
 {
     "keyboard_name": "polly40 v2",
-    "url": "",
-    "maintainer": "paul",
+    "manufacturer": "paul",
+    "url": "https://github.com/PollyV1",
+    "maintainer": "Paul Enrico N. Viola",
+    "usb": {
+        "vid": "0x6532",
+        "pid": "0x0069",
+        "device_version": "0.0.1"
+    }, 
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "diode_direction": "COL2ROW",
     "layouts": {
         "LAYOUT": {
             "layout": [
