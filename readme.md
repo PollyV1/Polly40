@@ -9,7 +9,7 @@ A handwired keyboard based on a Pro micro Atmega32u4 controller
 * Hardware Supported: Pro micro Atmega32u4 controller
 * Hardware Availability: https://github.com/PollyV1/Polly40/
 
-* Build Details:
+Build Details:
 * ATMEGA23U4 Controller(Pro Micro): https://shopee.ph/Pro-Micro-ATmega32U4-5V-16MHz-USB-Arduino-Compatible-i.20469516.225455828
 * 1N4148 diodes: https://shopee.ph/100PCS-do-35-1N4148-IN4148-High-speed-switching-diodes-i.307295456.4459281480
 * AWG30 Wires: https://shopee.ph/8-Color-Wrapping-Wire-250-Meters-AWG30-Cable-OK-Wire-Jumper-Wire-PVC-Electronic-Conductor-Wire-Connector-for-PCB-i.487295469.13507749266
