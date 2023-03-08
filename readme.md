@@ -8,6 +8,7 @@ A handwired keyboard based on a Pro micro Atmega32u4 controller
 * Keyboard Maintainer: Paul Enrico N. Viola (https://github.com/PollyV1)
 * Hardware Supported: Pro micro Atmega32u4 controller
 * Hardware Availability: https://github.com/PollyV1/Polly40/
+* QMK link: https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/polly40
 
 Build Details:
 * ATMEGA23U4 Controller(Pro Micro): https://shopee.ph/Pro-Micro-ATmega32U4-5V-16MHz-USB-Arduino-Compatible-i.20469516.225455828
